@@ -11,6 +11,8 @@ a)  a = 0
       a = a + n * n
 ```
 
+input 2 runtime 2
+input 3 runtime 3
 
 ```
 b)  sum = 0
